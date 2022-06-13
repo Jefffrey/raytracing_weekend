@@ -1,0 +1,9 @@
+[package]
+name = "raytracing_weekend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+png = "0.17.5"
+rand = "0.8.5"
+rayon = "1.5.3"
